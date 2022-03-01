@@ -155,17 +155,7 @@ border: 3px solid blue;
 }
 }
 
-.logged-in #for-non-loggedin-user{
-	display:none;
-}
 
-#for-loggedin-user{
-	display:none;
-}
-
-.logged-in #for-loggedin-user{
-display:block;	
-}
 
 .whb-col-right .wd-dropdown-register{
 	border-radius: 0px 0px 13px 13px;
